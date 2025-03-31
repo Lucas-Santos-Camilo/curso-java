@@ -12,5 +12,9 @@ public class TiposVariaveis {
         System.out.print(numero);
 
         final double VALOR_DE_PI = 3.14;
+
+        System.out.print(salarioMinimo);
+        System.out.print(numeroCurto2);
+        System.out.print(VALOR_DE_PI);
     }
 }
